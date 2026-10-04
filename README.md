@@ -4,12 +4,10 @@ This repository contains my exercises and projects completed during a Python Dat
 
 ## Repository Structure
 
-```
-Python_DataScience_Bootcamp/
-│
-├── 01_Variables/
-└── README.md
-```
+# Open in Colab
+
+
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb)
 
 ## Topics Covered
 
