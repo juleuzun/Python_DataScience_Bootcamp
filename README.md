@@ -1,4 +1,4 @@
-Python Data Science Bootcamp
+🐍 Python Data Science Bootcamp
 
 A collection of Python programming, data science, and machine learning exercises completed during my Python Data Science Bootcamp.
 
