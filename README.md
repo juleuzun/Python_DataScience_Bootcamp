@@ -49,7 +49,7 @@ Practical assignments completed throughout the bootcamp.
 | 2 | Library App | [Assignment_2_library_app.py](./Assignments/Assignment_2_library_app.py) | - |
 | 3 | Library Management Application - Persistent Storage | [Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb](./Assignments/Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb) |
 | 4 | Linear Regression | [Assignment_4_Linear_Regression.ipynb](./Assignments/Assignment_4_Linear_Regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb) |
-| 5 | Linear Regression Models | [Assignment_5_Linear_Regression_Models.ipynb](./Assignments/Assignment_5_Linear_Regression_Models.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_5_Linear_Regression_Models.ipynb) |
+| 5 | Linear Regression Models | [Assignment_5_Comparison_of_Linear_Regression_Models.pynb](./Assignments/Assignment_5_Comparison_of_Linear_Regression_Models.pynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_5_Linear_Regression_Models.ipynb) |
 ---
 
 ## 📂 **Datasets**
