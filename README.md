@@ -28,7 +28,7 @@ The **Lessons** section contains the notebooks and exercises completed during th
 |  **2** | **Python Data Structures**                           | `Lesson_02_...ipynb` |           |
 |  **3** | **Functions & Object-Oriented Programming**          | `Lesson_03_...ipynb` |           |
 |  **4** | **Linear Regression**                                | `Lesson_04_...ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) 
+|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) |
 |  **5** | **Nonlinear Regression**                             | `Lesson_05_...ipynb` |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_05_Regression_Models.ipynb) |      |
 |  **6** | **Artificial Neural Networks - ANN**                 | —                    |           |
 |  **7** | **Logistic Regression**                              | —                    |           |
@@ -49,8 +49,8 @@ Practical assignments completed throughout the bootcamp.
 | **1** | **Python Fundamentals**     | `Assignment_1_...ipynb`                |                                                                                                                                                                                                                        |
 | **2** | **Library Application**     | `Assignment_2_...ipynb`                |                                                                                                                                                                                                                        |
 | **3** | **Persistent Data Storage** | `Assignment_3_...ipynb`                |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/assignment_3_Library_Management_Application_Persistant_Storage1.jpynb)
-| **4** | **Linear Regression**       | `Assignment_4_Linear_Regression.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb) |
+|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/assignment_3_Library_Management_Application_Persistant_Storage1.jpynb)|
+| **4** | **Linear Regression**       | `Assignment_4_Linear_Regression.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb) |
 | **5** | **Clustering Analysis**     | `Assignment_5_...ipynb`                |                                                                                                                                                                                                                        |
 | **6** | **Sentiment Analysis**      | `Assignment_6_...ipynb`                |                                                                                                                                                                                                                        |
 | **7** | **Image Classification**    | `Assignment_7_...ipynb`                |                                                                                                                                                                                                                        |
