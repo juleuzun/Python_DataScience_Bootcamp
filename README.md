@@ -22,19 +22,18 @@ This repository documents my learning journey from **Python fundamentals** to **
 
 The **Lessons** section contains the notebooks and exercises completed during the bootcamp sessions.
 
-|  **#** | **Topic**                                            | **Notebook**         | **Colab** |
-| :----: | ---------------------------------------------------- | -------------------- | :-------: |
-|  **1** | **Python Fundamentals**                              | `Lesson_01_...ipynb` |           |
-|  **2** | **Python Data Structures**                           | `Lesson_02_...ipynb` |           |
-|  **3** | **Functions & Object-Oriented Programming**          | `Lesson_03_...ipynb` |           |
-|  **4** | **Linear Regression**                                | `Lesson_04_...ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) |
-|  **5** | **Nonlinear Regression**                             | `Lesson_05_...ipynb` |      [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_05_Regression_Models.ipynb) |      |
-|  **6** | **Artificial Neural Networks - ANN**                 | —                    |           |
-|  **7** | **Logistic Regression**                              | —                    |           |
-|  **8** | **Recurrent Neural Networks - RNN**                  | —                    |           |
-|  **9** | **Convolutional Neural Networks - CNN**              | —                    |           |
-| **10** | **Regions with Convolutional Neural Network - RCNN** | —                    |           |
+| # | Topic | Notebook | Colab |
+|---:|---|---|---|
+| 1 | Python Fundamentals | [Lesson_01_Syntax_Basic_Structures.py](./Lessons/Lesson_01_Syntax_Basic_Structures.py) | - |
+| 2 | Python Fundamentals | [Lesson_02_Control_Structures_Functions.py](./Lessons/Lesson_02_Control_Structures_Functions.py) | - |
+| 3 | Python Fundamentals | [Lesson_03_Error_Handling_File_Operations.ipynb](./Lessons/Lesson_03_Error_Handling_File_Operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_03_Error_Handling%26File_Operations.ipynb) |
+| 4 | Linear Regression | [Lesson_04_simple_linear_regression_advertising.ipynb](./Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) |
+| 5 | Regression Models | [Lesson_05_Regression_Models.ipynb](./Lessons/Lesson_05_Regression_Models.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_05_Regression_Models.ipynb) |
+| 6 | Artificial Neural Networks - ANN | — | — |
+| 7 | Logistic Regression | — | — |
+| 8 | Recurrent Neural Networks - RNN | — | — |
+| 9 | Convolutional Neural Networks - CNN | — | — |
+| 10 | Regions with Convolutional Neural Network - RCNN | — | — |
 
 > Notebook names and Colab links will be added as the repository develops.
 
@@ -44,17 +43,13 @@ The **Lessons** section contains the notebooks and exercises completed during th
 
 Practical assignments completed throughout the bootcamp.
 
-| **#** | **Assignment**              | **Notebook**                           |                                                                                                        **Colab**                                                                                                       |
-| :---: | --------------------------- | -------------------------------------- | :--------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------: |
-| **1** | **Python Fundamentals**     | `Assignment_1_...ipynb`                |                                                                                                                                                                                                                        |
-| **2** | **Library Application**     | `Assignment_2_...ipynb`                |                                                                                                                                                                                                                        |
-| **3** | **Persistent Data Storage** | `Assignment_3_...ipynb`                |   [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]
-|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/assignment_3_Library_Management_Application_Persistant_Storage1.jpynb)|
-| **4** | **Linear Regression**       | `Assignment_4_Linear_Regression.ipynb` | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)]|(https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb) |
-| **5** | **Clustering Analysis**     | `Assignment_5_...ipynb`                |                                                                                                                                                                                                                        |
-| **6** | **Sentiment Analysis**      | `Assignment_6_...ipynb`                |                                                                                                                                                                                                                        |
-| **7** | **Image Classification**    | `Assignment_7_...ipynb`                |                                                                                                                                                                                                                        |
-
+| # | Topic | Notebook | Colab |
+|---:|---|---|---|
+| 1 | Riddle Game | [Assignment_1_riddle_game.py](./Assignments/Assignment_1_riddle_game.py) | - |
+| 2 | Library App | [Assignment_2_library_app.py](./Assignments/Assignment_2_library_app.py) | - |
+| 3 | Library Management Application - Persistent Storage | [Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb](./Assignments/Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_3_Library_Management_Application_Persistant_Storage1.ipynb) |
+| 4 | Linear Regression | [Assignment_4_Linear_Regression.ipynb](./Assignments/Assignment_4_Linear_Regression.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_4_Linear_Regression.ipynb) |
+| 5 | Linear Regression Models | [Assignment_5_Linear_Regression_Models.ipynb](./Assignments/Assignment_5_Linear_Regression_Models.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Assignments/Assignment_5_Linear_Regression_Models.ipynb) |
 ---
 
 ## 📂 **Datasets**
