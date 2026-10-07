@@ -29,7 +29,7 @@ The **Lessons** section contains the notebooks and exercises completed during th
 | 3 | Python Fundamentals | [Lesson_03_Error_Handling_File_Operations.ipynb](./Lessons/Lesson_03_Error_Handling_File_Operations.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_03_Error_Handling%26File_Operations.ipynb) |
 | 4 | Linear Regression | [Lesson_04_simple_linear_regression_advertising.ipynb](./Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_04_simple_linear_regression_advertising.ipynb) |
 | 5 | Regression Models | [Lesson_05_Regression_Models.ipynb](./Lessons/Lesson_05_Regression_Models.ipynb) | [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/juleuzun/Python_DataScience_Bootcamp/blob/main/Lessons/Lesson_05_Regression_Models.ipynb) |
-| 6 | Artificial Neural Networks - ANN | — | — |
+| 6 | Artificial Neural Networks - ANN | [Lesson_06_regression_and_classification_algorithms.ipynb](./Lessons/Lesson_06_regression_and_classification_algorithms.ipynb) | [![Open In Colab] |
 | 7 | Logistic Regression | — | — |
 | 8 | Recurrent Neural Networks - RNN | — | — |
 | 9 | Convolutional Neural Networks - CNN | — | — |
